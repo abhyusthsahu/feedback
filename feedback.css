@@ -1,0 +1,52 @@
+body
+{
+    background-image:url(..//Images/fee%20bg%201.jpg);
+    background-size:cover;
+}
+h1
+{
+    font-family: castellar;
+    font-size: 40px;
+}
+#suggest
+{
+    font-family: cursive;
+    width: 80%;
+    height: 20%;
+}
+#right
+{
+    font-size: 25;
+    font-family: cursive;
+     width: 70%;
+    float: right;
+}
+label
+{
+    font-family: cursive;
+}
+input
+{
+    font-family: cursive;
+    border-radius: 10PX;
+}
+textarea
+{
+    border-radius: 10px;
+}
+#display
+{
+    font-family:"monotype corsiva";
+    font-size: 30;
+}
+button,img
+{
+    border-radius: 30px;
+}
+footer
+{ 
+    font-size: 18;
+    position: relative;
+    top: 50%;
+    left: 10%;
+}
